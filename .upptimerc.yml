@@ -11,8 +11,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: info.patrol-connect.com/upptime
-  # baseUrl: /upptime
+  # cname: info.patrol-connect.com/upptime/
+  baseUrl: /upptime
   themeUrl: https://info.patrol-connect.com/upptime/dark.css
   links:
     - rel: stylesheet
