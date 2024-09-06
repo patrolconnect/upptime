@@ -1,20 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
-    "dailyMinutesDown": {}
+    "name": "Front-End",
+    "url": "https://info.patrol-connect.com",
+    "icon": "https://icons.duckduckgo.com/ip3/info.patrol-connect.com.ico",
+    "slug": "front-end",
+    "status": "down",
+    "uptime": "14.44%",
+    "uptimeDay": "14.44%",
+    "uptimeWeek": "14.44%",
+    "uptimeMonth": "14.44%",
+    "uptimeYear": "14.44%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
+  },
+  {
+    "name": "Back-End Portal",
+    "url": "https://www.patrol-connect.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.patrol-connect.com.ico",
+    "slug": "back-end-portal",
+    "status": "down",
+    "uptime": "2.41%",
+    "uptimeDay": "2.41%",
+    "uptimeWeek": "2.41%",
+    "uptimeMonth": "2.41%",
+    "uptimeYear": "2.41%",
+    "time": 103,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   }
 ]
